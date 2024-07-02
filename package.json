@@ -19,10 +19,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/obaydmerz/byteworks-js.git"
+    "url": "https://github.com/obaydmerz/byteworks.git"
   },
   "bugs": {
-    "url": "https://github.com/obaydmerz/byteworks-js/issues"
+    "url": "https://github.com/obaydmerz/byteworks/issues"
   },
-  "homepage": "https://github.com/obaydmerz/byteworks-js#readme"
+  "homepage": "https://github.com/obaydmerz/byteworks#readme"
 }
