@@ -1,0 +1,28 @@
+{
+  "name": "byteworks",
+  "version": "1.0.0",
+  "description": "A Node.js library for creating high-performance communication systems using a customized protocol.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "communication",
+    "protocol",
+    "high-performance",
+    "nodejs",
+    "buffer",
+    "networking"
+  ],
+  "author": "Abderrahmene Merzoug <obaydmerz@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/obaydmerz/byteworks-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/obaydmerz/byteworks-js/issues"
+  },
+  "homepage": "https://github.com/obaydmerz/byteworks-js#readme"
+}
